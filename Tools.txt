@@ -1,1 +1,4 @@
+Rocky Linux:
 ncdu ==> Check file/directory size.
+htop ==> For system resource monitoring.
+cowsay ==> Just for fun.
