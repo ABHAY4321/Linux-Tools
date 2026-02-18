@@ -2,3 +2,6 @@ Rocky Linux:
 ncdu ==> Check file/directory size.
 htop ==> For system resource monitoring.
 cowsay ==> Just for fun.
+# cowsay abhay ==> O/P: cowsay: Could not find cowfile for 'default.cow'!
+==> To fix this, set path for COWPATH as shown below-
+# export COWPATH=/usr/share/cowsay/cows ==> It will solved the issue.
